@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-operator
 
-go 1.21
+go 1.26.0
 
 retract v1.51.0
 
